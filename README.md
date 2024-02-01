@@ -32,3 +32,4 @@ source build/envsetup.sh; export ALLOW_MISSING_DEPENDENCIES=true; lunch twrp_a12
  
 SPDX-License-Identifier: Apache-2.0
 ```
+[![OrangeFox-Action](https://github.com/TDD788/Recovery-Multi-Action/actions/workflows/OrangeFox.yml/badge.svg?event=check_run)](https://github.com/TDD788/Recovery-Multi-Action/actions/workflows/OrangeFox.yml)[![OrangeFox-Action](https://github.com/TDD788/Recovery-Multi-Action/actions/workflows/OrangeFox.yml/badge.svg?event=create)](https://github.com/TDD788/Recovery-Multi-Action/actions/workflows/OrangeFox.yml)
